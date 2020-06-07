@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on ps-george</title>
+    <link>https://www.ps-george.com/</link>
+    <description>Recent content in Portfolio on ps-george</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <managingEditor>youremail@domain.com (George Punter)</managingEditor>
+    <webMaster>youremail@domain.com (George Punter)</webMaster>
+    <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.ps-george.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why is load testing important?</title>
+      <link>https://www.ps-george.com/post/bboxx/why-load-testing.html</link>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (George Punter)</author>
+      <guid>https://www.ps-george.com/post/bboxx/why-load-testing.html</guid>
+      <description>Testing is an essential part of all product development. It&amp;rsquo;s likely everything you can see right now has been extensively tested at some point. Testing for software development is just as important than testing any other product, but is often back-benched since it isn&amp;rsquo;t explicitly productive. Would you ever use an appliance that has never been tested? Drive a car?
+Like it or not, if you ever want anybody to use your code with confidence, you need to write tests.</description>
+    </item>
+    
+    <item>
+      <title>Project Mystic</title>
+      <link>https://www.ps-george.com/post/bboxx/project-mystic.html</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (George Punter)</author>
+      <guid>https://www.ps-george.com/post/bboxx/project-mystic.html</guid>
+      <description>Project Mystic is a project at BBOXX to create a framework for providing the capability of Process Load Testing. This means deploying process tests in scale against a test system.
+In short, this gives users access to an understanding of the performance of systems at scale.
+The potential benefits to this are:
+ Present and future bottlenecks Detect degradation in scability for code deploys.  </description>
+    </item>
+    
+    <item>
+      <title>George Punter</title>
+      <link>https://www.ps-george.com/about.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (George Punter)</author>
+      <guid>https://www.ps-george.com/about.html</guid>
+      <description>Yet Another Human. Technologically capable, from high level (F#, Python) to low level (C++, C) to assembly (ARM, MIPS) to hardware (Verilog, soon VHDL).
+Figuring out life, status: incomplete.
+Politically: invest in education and sustainability, don&amp;rsquo;t sell weapons to war criminals.
+Enjoys the following&amp;hellip;
+ Creating... 
+ Tech Love Food Blog Dance Music Photography   Learning to... be happy. 
+ Blog Sing Talk Dance Play guitar Skateboard Speak Swedish   Vices</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,141 @@
+baseurl = "https://www.ps-george.com"
+uglyurls = true
+languageCode = "en-uk"
+DefaultContentLanguage = "en"
+title = "ps-george"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[Params]
+  homeTitle = "George Punter" # Set a different text for the header on the home page
+  subtitle = "Professional Portfolio"
+  logo = "/img/8biticon.jpg"
+  favicon = "/img/8biticon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = false
+  comments = true
+  readingTime = true
+  useHLJS = true
+  socialShare = true
+  custom_css = ["/static/css/custom.css"]
+#  custom_js  = ["/static/js/custom.js"]
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+[Author]
+  name = "George Punter"
+  website = "yourwebsite.com"
+  email = "youremail@domain.com"
+  github = "ps-george"
+  linkedin = "gspunter"
+  paypal = "gpunter"
+  # facebook = "username"
+  # googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
+  # gitlab = "username"
+  # bitbucket = "username"
+  # twitter = "username"
+  # reddit = "username"
+  # xing = "username"
+  # stackoverflow = "users/XXXXXXX/username"
+  # snapchat = "username"
+  # instagram = "username"
+  # youtube = "user/username" # or channel/channelname
+  # soundcloud = "username"
+  # spotify = "username"
+  # bandcamp = "username"
+  # itchio = "username"
+  # vk = "username"
+  # telegram = "username"
+
+[[menu.main]]
+    name = "Portfolio"
+    url = "/"
+    weight = 1 
+
+#[[menu.main]]
+    #identifier = "projects"
+    #name = "Projects"
+    #url = "/project.html"
+    #weight = 2
+
+#[[menu.main]]
+    #parent = "projects"
+    #name = "All"
+    #url = "/project.html"
+    #weight = 1
+
+#[[menu.main]]
+    #parent = "projects"
+    #identifier = "imperial"
+    #name = "Imperial"
+    #url = "/project/imperial.html"
+    #weight = 2
+
+#[[menu.main]]
+    #parent = "projects"
+    #name = "MeshPower"
+    #url = "/project/meshpower.html"
+    #weight = 3
+
+#[[menu.main]]
+    #parent = "projects"
+    #identifier = "bboxx-projects"
+    #name = "BBOXX"
+    #url = "/project/bboxx.html"
+    #weight = 4
+
+[[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/post.html"
+    weight = 3
+
+[[menu.main]]
+    parent = "posts"
+    identifier = "all-posts"
+    name = "All"
+    url = "/post.html"
+    weight = 1
+
+# [[menu.main]]
+    # parent = "posts"
+    # identifier = "personal"
+    # name = "Personal"
+    # url = "/post/personal.html"
+    # weight = 2
+
+[[menu.main]]
+    parent = "posts"
+    identifier = "bboxx-posts"
+    name = "BBOXX"
+    url = "/post/bboxx.html"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/about.html"
+    weight = 4
+
+#[[menu.main]]
+#    name = "Journal"
+#    url = "/note.html"
+#    weight = 5
+
+#[[menu.main]]
+#    name = "Photos"
+#    url = "/photo.html"
+#    weight = 6
+
+[[menu.main]]
+    name = "Tags"
+    url = "/tags.html"
+    weight = 7
+

@@ -1,0 +1,15 @@
+.post-preview .post-title {
+  margin-top: 0;
+}
+
+@media only screen and (min-width: 768px) {
+  .intro-header .page-heading h1,
+  .intro-header .tags-heading h1 {
+    font-size: 50px;
+  }
+}
+
+.anchor { 
+  padding-top: 200px;
+  margin-top: -200px;
+}

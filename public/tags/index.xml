@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ps-george</title>
+    <link>https://www.ps-george.com/tags.html</link>
+    <description>Recent content in Tags on ps-george</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <managingEditor>youremail@domain.com (George Punter)</managingEditor>
+    <webMaster>youremail@domain.com (George Punter)</webMaster>
+    <lastBuildDate>Wed, 13 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.ps-george.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bboxx</title>
+      <link>https://www.ps-george.com/tags/bboxx.html</link>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (George Punter)</author>
+      <guid>https://www.ps-george.com/tags/bboxx.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mystic</title>
+      <link>https://www.ps-george.com/tags/mystic.html</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (George Punter)</author>
+      <guid>https://www.ps-george.com/tags/mystic.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>https://www.ps-george.com/tags/project.html</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (George Punter)</author>
+      <guid>https://www.ps-george.com/tags/project.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://www.ps-george.com/tags/tech.html</link>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (George Punter)</author>
+      <guid>https://www.ps-george.com/tags/tech.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing</title>
+      <link>https://www.ps-george.com/tags/testing.html</link>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (George Punter)</author>
+      <guid>https://www.ps-george.com/tags/testing.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
