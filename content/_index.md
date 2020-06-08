@@ -1,89 +1,86 @@
 ---
 title: Portfolio
-date: 2017-03-20
+date: 2020-06-08
 ---
 
-{{< heading text="Skills" alignment="center" level="1" >}}
-<hr>
 {{< heading text="Programming Languages" alignment="center" level="2" >}}
 <hr>
 
 ### Experienced
 
-- F#
 - Python
-- C++/C
+- MATLAB
+- SQL
 
 ### Competent
 
-- SQL
-- Assembly
-- Verilog
-- JavaScript
+- Java
+- C/C++
+- VBA
 - HTML
-- Matlab
+- SPSS
 
 <hr>
-{{< heading text="Capabilities" alignment="center" level="2" >}}
+{{< heading text="Skills" alignment="center" level="2" >}}
 <hr>
 
-#### Full stack web application development
+#### Data Science - bla bla about pandas and different types of machine learning models
   - Intuitive front end design
   - Back end implementation
   - Infrastructure design
   - Schema design
 
-#### Hardware Design with HDL
+#### Hardware Design with HDL - prticle modelling
   - Video processing
   - Finite State Machines
   - High Level Synthesis (e.g. Catapult C)
 
-#### Testing software
+#### Testing software -quality analysis software
   - Automated unit and property-based testing
   - Load testing
   - Integrated load testing (intelligently load testing with integration tests) 
 
-#### Embedded Systems
+#### Embedded Systems - natural language processing
   - Embedded C development
   - IoT devices using [LoRaWAN](https://www.thethingsnetwork.org/docs/lorawan/)
 
-#### Machine Learning
+#### Machine Learning - spoken languages
   - Deep Neural Networks for image and facial recognition using TensorFlow
 
-#### Robotics
+#### Robotics- scientific analysis and experimental design
   - Monte Carlo Localisation (MCL) using Sonar 
 
-#### Graphics
+#### Graphics GOOGLE ANALYTICS
   - OpenGL
   - Ray Tracing
 
 <hr>
 {{< heading text="Experience" alignment="center" level="1" >}}
 <hr>
-## BBOXX
+## SAP
 ##### 26th March - 27th August 2018
 
 <hr>
 
 ## MeshPower
-##### 3rd July - 27th September 2017
+##### NHS
 - Based in Rwanda
 - Developed a smart SMS system using a RaspberryPi and multiple modems
 - Worked closely with CS team to further develop CRM tool
 
-##### 3rd October - 7th December 2016 (part-time)
+##### FREELANCE PROJECTS
 - Statistical reporting for issue tracking tool
 
 ##### 17th July - 16th September 2016
 - Schema design for business relations
 - Creation of a bespoke ERP system (CRM and issue tracking)
 
-##### 1st - 2nd April 2016 (freelance)
+##### BLABLA
 - Integrating WordPress blog into existing website.
 
 <hr>
 
-## Waukesha Magnetic Bearings
+## BLABLA
 ##### 4th August 2014 - 4th August 2015
 
 - Python, VBA, SQL
@@ -91,7 +88,7 @@ date: 2017-03-20
 - Six Sigma
 
 <hr>
-# Projects
+# Projects - maybe delete this section for now
 <hr>
 {{< gallery hover-effect="none" caption-effect="none" >}}
 {{< img link="https://github.com/ps-george/Robotics-EIE3" src="/img/robot.png" caption="Robotics" >}} 
