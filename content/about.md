@@ -21,4 +21,3 @@ I am a curious nature lover from London who loves all things DATA and wants to k
 - Physics 
 - Beer
 - Languages
-
