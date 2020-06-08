@@ -1,8 +1,8 @@
-baseurl = "https://www.ps-george.com"
+baseurl = "https://elastic-albattani-7732cb.netlify.app/about.html"
 uglyurls = true
 languageCode = "en-uk"
 DefaultContentLanguage = "en"
-title = "ps-george"
+title = "Ellen Zehra"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -15,10 +15,10 @@ pygmentOptions = "linenos=inline"
 #googleAnalytics = "XXX"
 
 [Params]
-  homeTitle = "George Punter" # Set a different text for the header on the home page
-  subtitle = "Professional Portfolio"
-  logo = "/img/8biticon.jpg"
-  favicon = "/img/8biticon.ico"
+  homeTitle = "Ellen Zehra Punter" # Set a different text for the header on the home page
+  subtitle = "Portfolio"
+  logo = ""
+  favicon = ""
   dateFormat = "January 2, 2006"
   commit = false
   rss = false
@@ -31,12 +31,12 @@ pygmentOptions = "linenos=inline"
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 [Author]
-  name = "George Punter"
+  name = "Ellen Zehra Punter"
   website = "yourwebsite.com"
   email = "youremail@domain.com"
-  github = "ps-george"
-  linkedin = "gspunter"
-  paypal = "gpunter"
+  github = "ezejp20"
+  linkedin = "ellen-punter"
+  paypal = "Ellen Punter"
   # facebook = "username"
   # googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
   # gitlab = "username"
