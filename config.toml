@@ -17,8 +17,8 @@ pygmentOptions = "linenos=inline"
 [Params]
   homeTitle = "Ellen Zehra Punter" # Set a different text for the header on the home page
   subtitle = "Portfolio"
-  logo = ""
-  favicon = ""
+  logo = "temp logo"
+  favicon = "temp logo"
   dateFormat = "January 2, 2006"
   commit = false
   rss = false
