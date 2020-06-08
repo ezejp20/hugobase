@@ -93,17 +93,17 @@ pygmentOptions = "linenos=inline"
     #weight = 4
 
 #[[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/post.html"
-    weight = 3
+    #identifier = "posts"
+    #name = "Posts"
+    #url = "/post.html"
+    #weight = 3
 
 #[[menu.main]]
-    parent = "posts"
-    identifier = "all-posts"
-    name = "All"
-    url = "/post.html"
-    weight = 1
+    #parent = "posts"
+    #identifier = "all-posts"
+    #name = "All"
+    #url = "/post.html"
+    #weight = 1
 
 # [[menu.main]]
     # parent = "posts"
@@ -113,11 +113,11 @@ pygmentOptions = "linenos=inline"
     # weight = 2
 
 #[[menu.main]]
-    parent = "posts"
-    identifier = "bboxx-posts"
-    name = "BBOXX"
-    url = "/post/bboxx.html"
-    weight = 2
+    #parent = "posts"
+    #identifier = "bboxx-posts"
+    #name = "BBOXX"
+    #url = "/post/bboxx.html"
+    #weight = 2
 
 [[menu.main]]
     name = "About"
@@ -135,7 +135,7 @@ pygmentOptions = "linenos=inline"
 #    weight = 6
 
 #[[menu.main]]
-    name = "Tags"
-    url = "/tags.html"
-    weight = 7
+    #name = "Tags"
+    #url = "/tags.html"
+    #weight = 7
 
