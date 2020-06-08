@@ -32,11 +32,11 @@ pygmentOptions = "linenos=inline"
 
 [Author]
   name = "Ellen Zehra Punter"
-  website = "yourwebsite.com"
-  email = "youremail@domain.com"
+  website = "ellen-zehra.me"
+  email = "ellenzpunter@gmail.com"
   github = "ezejp20"
-  linkedin = "ellen-punter"
-  paypal = "Ellen Punter"
+  linkedin = "ellen-punter-898880105"
+  paypal = "ellenzehra"
   # facebook = "username"
   # googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
   # gitlab = "username"
@@ -92,13 +92,13 @@ pygmentOptions = "linenos=inline"
     #url = "/project/bboxx.html"
     #weight = 4
 
-[[menu.main]]
+#[[menu.main]]
     identifier = "posts"
     name = "Posts"
     url = "/post.html"
     weight = 3
 
-[[menu.main]]
+#[[menu.main]]
     parent = "posts"
     identifier = "all-posts"
     name = "All"
@@ -112,7 +112,7 @@ pygmentOptions = "linenos=inline"
     # url = "/post/personal.html"
     # weight = 2
 
-[[menu.main]]
+#[[menu.main]]
     parent = "posts"
     identifier = "bboxx-posts"
     name = "BBOXX"
@@ -134,7 +134,7 @@ pygmentOptions = "linenos=inline"
 #    url = "/photo.html"
 #    weight = 6
 
-[[menu.main]]
+#[[menu.main]]
     name = "Tags"
     url = "/tags.html"
     weight = 7
