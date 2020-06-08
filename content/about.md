@@ -5,7 +5,7 @@ title: Ellen Zehra Punter
 subtitle: About me
 ---
 
-#{{< figure src="/img/templogo.jpg" >}}
+/*{{< figure src="/img/templogo.jpg" >}}*/
 
 I am a curious nature lover from London who loves all things DATA and wants to know everything about everything. I am interested in sustainability, simplicity, shortening supply chains, and making things with my own hands. 
 
