@@ -1,48 +1,24 @@
 ---
-title: George Punter
+title: Ellen Zehra Punter
 subtitle: About me
 ---
 
-{{< figure src="/img/glare-grin.JPG" >}}
+{{< figure src="" >}}
 
-Yet Another Human.
-Technologically capable, from high level (F#, Python) to low level (C++, C) to assembly (ARM, MIPS) to hardware (Verilog, soon VHDL).
-
-Figuring out life, status: incomplete.
-
-Politically: invest in education and sustainability, don't sell weapons to war criminals. 
-
-Enjoys the following...
+I am a curious nature lover from London who loves all things DATA and wants to know everything about everything. I am interested in sustainability, simplicity, shortening supply chains, and making things with my own hands. 
 
 <hr>
-{{< heading text="Creating..." alignment="center" level="3" >}}
+{{< heading text="Things I Love" alignment="center" level="3" >}}
 <hr>
 
-- Tech
-- Love
-- Food
-- Blog
-- Dance
-- Music
-- Photography
+- Family & Friends
+- Nature
+- Cooking
+- Dogs
+- Python 
+- Fantasy Novels 
+- Card Games
+- Physics 
+- Beer
+- Languages
 
-<hr>
-{{< heading text="Learning to..." alignment="center" level="3" >}}
-{{< heading text="be happy." alignment="right" level="4" >}}
-<hr>
-
-- Blog
-- Sing
-- Talk
-- Dance
-- Play guitar
-- Skateboard
-- Speak Swedish
-
-<hr>
-{{< heading text="Vices" alignment="center" level="3" >}}
-<hr>
-
-- Reading
-- Video games
-- The snooze button
