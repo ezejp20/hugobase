@@ -7,7 +7,7 @@ import json
 import os
 import subprocess
 
-BUCKET_NAME = 'ps-george.com'
+BUCKET_NAME = 'ellen-zehra.me'
 BUCKET_REGION = 'eu-west-1'
 
 def create_parser():
